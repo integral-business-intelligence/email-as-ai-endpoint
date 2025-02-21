@@ -24,3 +24,8 @@ Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.
 ![Orchestration](./Fig02.png)
 ## Implementation
 ![Implementation](./flow.png)
+
+## Press Coverage
+[Yahoo Finance](https://finance.yahoo.com/news/existing-business-email-now-acts-132600185.html)
+[Seeking Alpha](https://seekingalpha.com/pr/20003859-existing-business-email-now-acts-as-enterprise-ai-gateway-with-new-technique)
+[Morningstar](https://www.morningstar.com/news/pr-newswire/20250217ph20623/existing-business-email-now-acts-as-enterprise-ai-gateway-with-new-technique)
