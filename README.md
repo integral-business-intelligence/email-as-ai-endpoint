@@ -3,6 +3,8 @@ Preprint conference paper describing the use of email as a standard AI endpoint
 
 Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.pdf)
 
+![Front Page](./title.png)
+
 ## Highlights:
 - We present a method to use email to chat and interact with AI, broadly
 - We outline a three-layer architecture: email interface, webhook service, and AI orchestration
