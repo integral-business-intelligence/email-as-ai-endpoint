@@ -17,3 +17,12 @@ Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.
 - Asynchronous nature alleviates the burden of minimizing latency/time-to-first-token
 - Asynchronous nature allows certain processing workloads (EG: detailed multi-agent report analysis, etc.) to be assigned a deadline to facilitate management of inference workloads
 - And many others
+
+## Architecture
+![Architecture](./Fig01.png)
+
+## Orchestration Layer
+![Orchestration](./Fig02.png)
+
+## Implementation
+![Implementation](./flow.png)
