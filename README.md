@@ -20,9 +20,7 @@ Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.
 
 ## Architecture
 ![Architecture](./Fig01.png)
-
 ## Orchestration Layer
 ![Orchestration](./Fig02.png)
-
 ## Implementation
 ![Implementation](./flow.png)
