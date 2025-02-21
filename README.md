@@ -32,4 +32,4 @@ Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.
 ![Implementation](./flow.png)
 
 # Demo
-We provide a public demonstration; accessible by sending email to interface@integralbi.ai
+We provide a public demonstration - accessible by sending email to interface@integralbi.ai
