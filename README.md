@@ -17,7 +17,7 @@ Read the full paper on GitHub [email_as_ai_endpoint.pdf](./email_as_ai_endpoint.
 - We describe the benefits of email’s inherent characteristics of broad accessibility and asynchronous processing
 - We provide a public demonstration; accessible by sending email to interface@integralbi.ai
 
-## We envision some specific benefits:
+## Benefits:
 - Users do not need to adapt to new interfaces or frequently switch between their inbox and AI chat
 - Works across all email platforms and all AI model providers; local and API
 - Asynchronous nature alleviates the burden of minimizing latency/time-to-first-token
